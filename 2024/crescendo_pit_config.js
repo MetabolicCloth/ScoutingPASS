@@ -1,7 +1,7 @@
 var config_data = `
 {
   "dataFormat": "tsv",
-  "title": "ThunderChickens Scouting 2024",
+  "title": "TC217 Scouting 2024",
   "page_title": "Crescendo",
   "pitConfig": "true",
   "prematch": [
